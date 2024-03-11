@@ -1,0 +1,15 @@
+/Users/polimi/Projects/c-sharp-test-macbook/c-sharp-test-macbook/bin/Debug/net7.0/c-sharp-test-macbook
+/Users/polimi/Projects/c-sharp-test-macbook/c-sharp-test-macbook/bin/Debug/net7.0/c-sharp-test-macbook.deps.json
+/Users/polimi/Projects/c-sharp-test-macbook/c-sharp-test-macbook/bin/Debug/net7.0/c-sharp-test-macbook.runtimeconfig.json
+/Users/polimi/Projects/c-sharp-test-macbook/c-sharp-test-macbook/bin/Debug/net7.0/c-sharp-test-macbook.dll
+/Users/polimi/Projects/c-sharp-test-macbook/c-sharp-test-macbook/bin/Debug/net7.0/c-sharp-test-macbook.pdb
+/Users/polimi/Projects/c-sharp-test-macbook/c-sharp-test-macbook/obj/Debug/net7.0/c-sharp-test-macbook.csproj.AssemblyReference.cache
+/Users/polimi/Projects/c-sharp-test-macbook/c-sharp-test-macbook/obj/Debug/net7.0/c-sharp-test-macbook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polimi/Projects/c-sharp-test-macbook/c-sharp-test-macbook/obj/Debug/net7.0/c-sharp-test-macbook.AssemblyInfoInputs.cache
+/Users/polimi/Projects/c-sharp-test-macbook/c-sharp-test-macbook/obj/Debug/net7.0/c-sharp-test-macbook.AssemblyInfo.cs
+/Users/polimi/Projects/c-sharp-test-macbook/c-sharp-test-macbook/obj/Debug/net7.0/c-sharp-test-macbook.csproj.CoreCompileInputs.cache
+/Users/polimi/Projects/c-sharp-test-macbook/c-sharp-test-macbook/obj/Debug/net7.0/c-sharp-test-macbook.dll
+/Users/polimi/Projects/c-sharp-test-macbook/c-sharp-test-macbook/obj/Debug/net7.0/refint/c-sharp-test-macbook.dll
+/Users/polimi/Projects/c-sharp-test-macbook/c-sharp-test-macbook/obj/Debug/net7.0/c-sharp-test-macbook.pdb
+/Users/polimi/Projects/c-sharp-test-macbook/c-sharp-test-macbook/obj/Debug/net7.0/c-sharp-test-macbook.genruntimeconfig.cache
+/Users/polimi/Projects/c-sharp-test-macbook/c-sharp-test-macbook/obj/Debug/net7.0/ref/c-sharp-test-macbook.dll
